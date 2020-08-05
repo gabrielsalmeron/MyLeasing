@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30320.27
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyLeasing.Common", "MyLeasing.Common\MyLeasing.Common.csproj", "{45F6C91A-965A-4F18-98EB-863948D53448}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyLeasing.Web", "MyLeasing.Web\MyLeasing.Web.csproj", "{4061D96A-B767-42A9-A1A5-E5898AF67E11}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{45F6C91A-965A-4F18-98EB-863948D53448}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{45F6C91A-965A-4F18-98EB-863948D53448}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{45F6C91A-965A-4F18-98EB-863948D53448}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{45F6C91A-965A-4F18-98EB-863948D53448}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4061D96A-B767-42A9-A1A5-E5898AF67E11}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4061D96A-B767-42A9-A1A5-E5898AF67E11}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4061D96A-B767-42A9-A1A5-E5898AF67E11}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4061D96A-B767-42A9-A1A5-E5898AF67E11}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9494B411-59BF-4CC0-A987-E2EC9A2545EA}
+	EndGlobalSection
+EndGlobal
